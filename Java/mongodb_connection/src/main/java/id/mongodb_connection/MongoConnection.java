@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 public class MongoConnection {
     public MongoClient createConnection() {
         //Cambiar la URI por uno propio al database que se desea conectar
-        String connectionString = "mongodb+srv://Seba:Contraseña@cluster0.vlovhr5.mongodb.net/?retryWrites=true&w=majority";
+        String connectionString = "mongodb://localhost:27017";
         MongoClient mongo = null;
 
         try {
