@@ -105,17 +105,17 @@ Por último, iremos a Configuration Properties > Debugging > Environment y agreg
 
 ![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/ac256445-ce6a-4fa3-81d2-b00fbc599482)
 
-## Conectando tu programa en c++ con tu cluster
+## Conectando c++ con mongodb
+Copiamos el código que nos da Atlas MongoDB (Habilitamos View full code sample) o el que se encuentra en la carpeta llamada Programa-simple.cpp que se encuentra arriba.
 
+![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/bee568f0-cf2b-43bc-8d77-c389487db626)
 
+Copiamos y pegamos el codigo en Visual Studio, ahora cambiamos donde dice <username> y <password> por nuestra cuenta y contraseña
 
+![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/10909322-3ef2-4ecd-b3c6-cc5163b28432)
 
+Hacemos click en Loca Windows Debugger
 
+![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/54741b39-71c5-4116-bb33-c21176c725d7)
 
-
-
-
-
-
-
-
+Felicidades, te has conectado a tu Base de Datos usando c++
