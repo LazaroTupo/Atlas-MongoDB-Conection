@@ -27,8 +27,11 @@ Esto creará una copia local del repositorio en tu sistema.
 
 ## Descargar una sola carpeta del repositorio
 1. Ingresar a la carpeta que está interesado a usar y copie su URL directamente de la barra de buscador
+
 2. Ingresar a la siguiente página https://minhaskamal.github.io/DownGit/#/home
+
 3. Pegar la URL de la carpeta en la página y darle click a **Download**
+
 4. El archivo .zip que se descargó descomprimirlo, ubíquelo donde quiera la carpeta y siga la instrucciones que siguen
 
 ## Crear una cuenta en MongoDB Atlas
