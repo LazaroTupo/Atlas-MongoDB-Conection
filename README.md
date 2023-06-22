@@ -83,5 +83,5 @@ La URI de conexión es una cadena de conexión que utilizaremos en el código pa
 
 
 #### Ejemplo
-Si desea conectarse al MongoDB mediante Node.js seleccione en el menú desplegable debajo de **drivers** la opción de Node.js y en este repositorio ingrese a la carpeta llamada **JavaScript** y continúe con el Readme dentro de esa carpeta.
+Si desea conectarse al MongoDB mediante Node.js seleccione en el menú desplegable debajo de **drivers** la opción de Node.js y en este repositorio ingrese a la carpeta llamada **Nodejs-Sync** y continúe con el Readme dentro de esa carpeta.
 
