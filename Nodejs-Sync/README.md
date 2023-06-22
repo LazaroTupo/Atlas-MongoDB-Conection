@@ -1,15 +1,6 @@
 # Conexión a MongoDB Atlas con Node.js
 Este archivo README proporcionará instrucciones detalladas sobre cómo ejecutar el código JavaScript proporcionado para conectarse a una base de datos MongoDB en MongoDB Atlas utilizando el controlador oficial de MongoDB para Node.js.
  
-	APORTE REALIZADO POR EL GRUPO 4:
-	- Avendaño Meza Ever Frank
-	- Lorenzo Ramos Daniel David
-	- Castillo Layme Sebastian Fernando
-	- Calle Huamantinco Luis Eduardo
- 
-	SUPERVISADO POR:
-	- Arredondo Castillo Gustavo 
-	- Fiestas Manuel
 # Instructivo
 Siga cada uno de los siguientes pasos.
 
