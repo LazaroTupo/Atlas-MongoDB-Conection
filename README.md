@@ -10,7 +10,7 @@ Este archivo README proporcionará instrucciones detalladas sobre cómo ejecutar
 	SUPERVISADO POR:
 	- Arredondo Castillo Gustavo 
 	- Manuel Fiestas
-# Intructivo
+# Instructivo
 Siga cada uno de los siguientes pasos.
 
 ## Descargar todo el repositorio
