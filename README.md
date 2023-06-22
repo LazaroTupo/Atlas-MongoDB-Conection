@@ -25,7 +25,7 @@ Reemplaza <URL_DEL_REPOSITORIO> con la URL del repositorio que deseas clonar. Po
 La URL de este repositorio lo consigue dandole click en **<> CODE** en la esquina superior dercha, luego en **HTTPS** y copiar la URL que aparece.
 Esto creará una copia local del repositorio en tu sistema.
 
-##Descargar una sola carpeta del repositorio
+## Descargar una sola carpeta del repositorio
 1. Ingresar a la carpeta que está interesado a usar y copie su URL directamente de la barra de buscador
 2. Ingresar a la siguiente página https://minhaskamal.github.io/DownGit/#/home
 3. Pegar la URL de la carpeta en la página y darle click a **Download**
