@@ -13,6 +13,18 @@ Este archivo README proporcionará instrucciones detalladas sobre cómo ejecutar
 # Intructivo
 Siga cada uno de los siguientes pasos.
 
+## Descargar el código
+Clone o descarge el código fuente desde el repositorio correspondiente. Puedes seguir estos pasos para clonar el repositorio utilizando Git:
+
+1. Abra la terminal de Git (GitBash) o la terminal de su preferencia.
+
+2. Navege hasta el directorio donde deseas clonar el repositorio.
+
+3. Ejecute el siguiente comando para clonar el repositorio: 'git clone <URL_DEL_REPOSITORIO>'
+Reemplaza <URL_DEL_REPOSITORIO> con la URL del repositorio que deseas clonar. Por ejemplo: 'git clone https://github.com/tu-usuario/tu-repositorio'.
+La URL de este repositorio lo consigue dandole click en **<> CODE** en la esquina superior dercha, luego en **HTTPS** y copiar la URL que aparece.
+Esto creará una copia local del repositorio en tu sistema.
+
 ## Crear una cuenta en MongoDB Atlas
 Si aún no tiene una cuenta en MongoDB Atlas, sigua estos pasos para crear una cuenta gratuita:
 
