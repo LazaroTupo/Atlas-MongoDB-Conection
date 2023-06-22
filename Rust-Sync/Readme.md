@@ -22,6 +22,6 @@ El siguiente Readme explicará la creación y archivos y ejecución del código 
 
 Si se siguió los pasos entonces en la consola te saldrá el siguiente mensaje indicando que fue un éxito la conexión
 
-		La conexión fue exitosa
+		Te conectaste con éxito a MongoDB!
 
 
