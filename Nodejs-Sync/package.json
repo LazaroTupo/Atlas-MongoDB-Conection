@@ -1,0 +1,11 @@
+{
+    "name": "proyecto-mongodb-atlas",
+    "version": "1.0.0",
+    "description": "Conexión a MongoDB Atlas usando Node.js",
+    "main": "app.js",
+    "dependencies": {
+      "mongodb": "^4.3.0",
+      "node.js": "v18.16.0"
+    }
+}
+  
