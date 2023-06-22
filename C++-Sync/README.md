@@ -114,8 +114,11 @@ Copiamos y pegamos el codigo en Visual Studio, ahora cambiamos donde dice <usern
 
 ![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/10909322-3ef2-4ecd-b3c6-cc5163b28432)
 
-Hacemos click en Loca Windows Debugger
+Hacemos click en Local Windows Debugger
 
 ![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/54741b39-71c5-4116-bb33-c21176c725d7)
 
 Felicidades, te has conectado a tu Base de Datos usando c++
+
+![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/ad1aed1d-d856-4911-9359-c1d94ccf12b6)
+
