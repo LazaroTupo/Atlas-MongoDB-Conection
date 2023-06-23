@@ -1,5 +1,5 @@
 # Conexión a MongoDB Atlas con Ruby
-El siguiente Readme explicará la ejecución del código para conectarlo a MongoDB Atlas mediante el lenguaje de programación Rust mediante la Synchronous API.
+El siguiente Readme explicará la ejecución del código para conectarlo a MongoDB Atlas mediante el lenguaje de programación Ruby
 
 ## Ajustes en la carpeta main.rb
 Una vez que ya tenga la carpeta descargada siga los siguientes pasos en la terminal

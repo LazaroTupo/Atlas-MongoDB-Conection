@@ -12,7 +12,7 @@ import (
 func main() {
 	// Use the SetServerAPIOptions() method to set the Stable API version to 1
 	serverAPI := options.ServerAPI(options.ServerAPIVersion1)
-	opts := options.Client().ApplyURI("mongodb+srv://Lazaro:Khtolr333@cluster0.adhlnkg.mongodb.net/?retryWrites=true&w=majority").SetServerAPIOptions(serverAPI)
+	opts := options.Client().ApplyURI("mongodb+srv://<username>:<password>@cluster0.adhlnkg.mongodb.net/?retryWrites=true&w=majority").SetServerAPIOptions(serverAPI)
 
 	// Create a new client and connect to the server
 	client, err := mongo.Connect(context.TODO(), opts)
