@@ -11,14 +11,6 @@ Para esta ocasión, se usará el IDE de [**Netbeans**](https://netbeans.apache.o
 1. Dentro de la carpeta del proyecto, haga click derecho en la carpeta de **Dependences** y luego seleccionar la opcion de **Add Dependency**
 1. Dentro del buscador solo escriba `mongodb` y seleccione la que tiene el nombre de `org.mongodb : mongodb-driver`.
 
-*This text will be italic*  
-_This will also be italic_
-
-**This text will be bold**  
-__This will also be bold__
-
-_You **can** combine them_
-
 ## Conexión con la API
 
 Una vez ya hecho esto, simplemente debe importar las siguientes librerías:
