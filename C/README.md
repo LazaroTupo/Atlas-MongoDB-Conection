@@ -44,3 +44,4 @@ Ahora abre tu terminal, ya sea con el atajo de teclado windows + r y escribiendo
 
 - Moveremos esta carpeta a C:\
 
+## Conección con la base de datos
