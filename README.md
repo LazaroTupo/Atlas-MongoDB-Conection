@@ -1,5 +1,5 @@
 # Conexión a MongoDB Atlas
-Este archivo README proporcionará instrucciones detalladas sobre cómo ejecutar el código C, C++, C#, Go, Java, Kotlin, JavaScript, PHP, Python, Ruby, Rust,  Scala y Swift proporcionado para conectarse a una base de datos MongoDB en MongoDB Atlas utilizando los controladores respectivos a cada lenguaje.
+Este archivo README proporcionará instrucciones detalladas sobre cómo ejecutar el código C, C++, C#, Go, Java, JavaScript, Python, Ruby y Rust proporcionado para conectarse a una base de datos MongoDB en MongoDB Atlas utilizando los controladores respectivos a cada lenguaje.
  
 	APORTE REALIZADO POR EL GRUPO 4:
 	- Avendaño Meza Ever Frank
