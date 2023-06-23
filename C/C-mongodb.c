@@ -12,7 +12,7 @@ int main (int argc, char **argv)
   // Initialize the MongoDB C Driver.
   mongoc_init ();
 
-  client = mongoc_client_new("mongodb+srv://<username>:<password>@cluster0.ovkwaxv.mongodb.net/?retryWrites=true&w=majority");
+  client = mongoc_client_new("mongodb+srv://luedu1103:hola123@cluster0.ovkwaxv.mongodb.net/?retryWrites=true&w=majority");
 
   // Set the version of the Stable API on the client.
   api = mongoc_server_api_new (MONGOC_SERVER_API_V1);

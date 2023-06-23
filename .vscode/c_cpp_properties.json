@@ -3,9 +3,6 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**",
-                "/usr/local/include/libbson-1.0/**",
-                "/usr/local/include/libmongoc-1.0/**",
                 "${workspaceFolder}/**"
             ],
             "defines": [
