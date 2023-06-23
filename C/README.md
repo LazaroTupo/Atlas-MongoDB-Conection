@@ -81,16 +81,16 @@ Siguiendo con la configuración, ve a Configuration Properties > Linker > Input 
 
 Por último, iremos a Configuration Properties > Debugging > Environment y agregaremos PATH=C:\mongo-c-driver\bin
 
-![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/ac256445-ce6a-4fa3-81d2-b00fbc599482)
+![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/4aed9f91-fe4e-4736-a065-d76fc4dbe7cc)
 
 ## Conectando C con mongodb
 Copiamos el código que nos da Atlas MongoDB (Habilitamos View full code sample) o el que se encuentra en la carpeta llamada C-mongodb.c que se encuentra arriba.
 
-![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/bee568f0-cf2b-43bc-8d77-c389487db626)
+![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/3dc7f36d-3b61-4cd6-bd02-79a1e6abbc37)
 
 Copiamos y pegamos el codigo en Visual Studio, ahora cambiamos donde dice <username> y <password> por nuestra cuenta y contraseña
 
-![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/10909322-3ef2-4ecd-b3c6-cc5163b28432)
+![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/330e730b-52e3-467e-9007-a61b64b07cc3)
 
 Hacemos click en Local Windows Debugger
 
@@ -98,4 +98,5 @@ Hacemos click en Local Windows Debugger
 
 Felicidades, te has conectado a tu Base de Datos usando C
 
-![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/ad1aed1d-d856-4911-9359-c1d94ccf12b6)
+![image](https://github.com/LazaroTupo/Atlas-MongoDB-Conection/assets/123672027/3cfab766-ff02-45cb-8032-4b6f1754a831)
+
