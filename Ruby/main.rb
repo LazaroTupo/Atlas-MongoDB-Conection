@@ -1,7 +1,7 @@
 
 require 'mongo'
 
-uri = "mongodb+srv://Lazaro:Khtolr333@cluster0.adhlnkg.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://<username>:<password>@cluster0.adhlnkg.mongodb.net/?retryWrites=true&w=majority"
 
 # Set the server_api field of the options object to Stable API version 1
 options = { server_api: {version: "1"} }
